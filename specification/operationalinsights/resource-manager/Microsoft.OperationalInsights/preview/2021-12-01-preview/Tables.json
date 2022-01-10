@@ -552,7 +552,7 @@
         "sourceTable": {
           "readOnly": true,
           "type": "string",
-          "description": "the table used in the search job."
+          "description": "The table used in the search job."
         }
       },
       "description": "Parameters of the search job that initiated this table."
